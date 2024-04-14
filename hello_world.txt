@@ -1,1 +1,2 @@
 Git basics test
+testing VSCode as commit message
